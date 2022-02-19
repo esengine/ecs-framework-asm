@@ -1,0 +1,26 @@
+{
+  "name": "ecs-framework-asm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/esengine/ecs-framework-asm.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/esengine/ecs-framework-asm/issues"
+  },
+  "homepage": "https://github.com/esengine/ecs-framework-asm#readme",
+  "devDependencies": {
+    "walt-compiler": "^0.21.0",
+    "walt-loader": "^1.1.12",
+    "webpack": "^5.69.1",
+    "webpack-cli": "^4.9.2"
+  }
+}
